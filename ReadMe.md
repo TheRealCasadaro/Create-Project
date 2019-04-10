@@ -11,7 +11,7 @@ it anywhere you want and add it to your powershell profile.
 Simply run the command `create-webproject` follwed by the location and the name of your web project folder.
 The location and name of your webproject should be a string.
 ### Example
-`create-webproject 'new site'
+`create-webproject` 'new site'
 The Exaple will create a folder named 'new-site' that contains the following files and folders.
 index.html (currently no content)
 img (folder)
